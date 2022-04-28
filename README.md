@@ -22,6 +22,10 @@ https://github.com/yaqingwang/WeFEND-AAAI20**
  
  The data folder contains a subset of weibo dataset for a quick start.  If you are interested in full weibo dataset, you can download it via https://drive.google.com/file/d/14VQ7EWPiFeGzxp3XC2DeEHi-BEisDINn/view?usp=sharing. (Approximately 1.3GB)
  
+ 链接：https://pan.baidu.com/s/1WU2FFDhXnodiGjsIdoSiWA?pwd=99ve 
+提取码：99ve 
+--来自百度网盘超级会员V6的分享
+ 
 
  
  ## Main Idea
